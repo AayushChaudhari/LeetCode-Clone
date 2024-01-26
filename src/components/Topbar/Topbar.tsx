@@ -68,12 +68,12 @@ const Topbar:React.FC<TopbarProps> = ({ problemPage }) => {
 				<div className='flex items-center space-x-4 flex-1 justify-end'>
 					<div>
 						<a
-							href='https://www.buymeacoffee.com/burakorkmezz'
+							href='https://github.com/AayushChaudhari/LeetCode-Clone'
 							target='_blank'
 							rel='noreferrer'
 							className='bg-dark-fill-3 py-1.5 px-3 cursor-pointer rounded text-brand-orange hover:bg-dark-fill-2'
 						>
-							Premium
+							Repo
 						</a>
 					</div>
                     {!user && (
